@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repository is no longer actively maintained and has been deprecated. Please be aware that it has been superseded by a new repository hosted at Repyfi. Kindly refer to the updated repository for the latest developments and support [Repyfi](https://github.com/repyfi). This repository is no longer actively maintained and has been deprecated. Please be aware that it has been superseded by a new repository hosted at Repyfi. Kindly refer to the updated repository for the latest developments and support.
+
 <div align="center">
   <h1>Repify CLI</h1>
   <p>
